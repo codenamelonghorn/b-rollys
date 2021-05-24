@@ -1,0 +1,5 @@
+	include	"nintendo_logo.o"
+	include	"nintendo_logoVtx.o"
+	include	"nintendo_logoMorphVtx.o"
+	include	"nintendo_logoMat.o"
+	include	"nintendo_logoMatrix.o"

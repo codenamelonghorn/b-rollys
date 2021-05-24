@@ -1,0 +1,33 @@
+extern Vtx stage22_skinned_mesh_vtx_0[44];
+extern Gfx stage22_skinned_mesh_tri_0[];
+extern Vtx stage22_skinned_mesh_vtx_1[4];
+extern Gfx stage22_skinned_mesh_tri_1[];
+extern Vtx stage22_skinned_mesh_vtx_2[300];
+extern Gfx stage22_skinned_mesh_tri_2[];
+extern Vtx stage22_skinned_mesh_vtx_3[8];
+extern Gfx stage22_skinned_mesh_tri_3[];
+extern Vtx stage22_skinned_mesh_vtx_4[27];
+extern Gfx stage22_skinned_mesh_tri_4[];
+extern Vtx stage22_skinned_mesh_vtx_5[32];
+extern Gfx stage22_skinned_mesh_tri_5[];
+extern Vtx stage22_skinned_mesh_vtx_6[70];
+extern Gfx stage22_skinned_mesh_tri_6[];
+extern Vtx stage22_skinned_mesh_vtx_7[24];
+extern Gfx stage22_skinned_mesh_tri_7[];
+extern Vtx stage22_skinned_mesh_vtx_8[8];
+extern Gfx stage22_skinned_mesh_tri_8[];
+extern Vtx stage22_skinned_mesh_vtx_9[94];
+extern Gfx stage22_skinned_mesh_tri_9[];
+extern Vtx stage22_skinned_mesh_vtx_10[68];
+extern Gfx stage22_skinned_mesh_tri_10[];
+extern Vtx stage22_skinned_mesh_vtx_11[8];
+extern Gfx stage22_skinned_mesh_tri_11[];
+extern Vtx stage22_skinned_mesh_vtx_12[20];
+extern Gfx stage22_skinned_mesh_tri_12[];
+extern Vtx stage22_skinned_mesh_vtx_13[8];
+extern Gfx stage22_skinned_mesh_tri_13[];
+extern Vtx stage22_skinned_mesh_vtx_14[8];
+extern Gfx stage22_skinned_mesh_tri_14[];
+
+extern Gfx stage22_skinned_mesh[];
+

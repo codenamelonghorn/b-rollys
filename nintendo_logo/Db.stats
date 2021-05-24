@@ -1,0 +1,67 @@
+
+		Statistics for Total Export
+
+Total Number (bytes) of Opcodes:		1170	(4680 bytes)
+
+Total Number (bytes) of Textures:		0	(0 bytes)
+
+Total Number (bytes) of Vertices:		822	(13152 bytes)
+
+Total Number (bytes) of Morph Vertices:		0	(0 bytes)
+
+Total Number (bytes) of Materials:		1	(16 bytes)
+
+Total Number (bytes) of Matrices:		0	(0 bytes)
+
+Total Number (bytes) of Lights:			0	(0 bytes)
+
+Total Number DisplayList calls:			1
+
+Application data memory usage:				72 bytes
+
+Total Memory Usage:					17920 bytes
+
+Total Number of Triangles:			1607
+						0 Textured Triangles
+						0 Triangles with Transparency
+						0 Shaded Triangles
+
+Total Number (bytes) of gs1Triangle       Opcodes:	65	(260 bytes)
+Total Number (bytes) of gsBranchList      Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsClearRenderMode Opcodes:	2	(8 bytes)
+Total Number (bytes) of gsDisplayList     Opcodes:	1	(4 bytes)
+Total Number (bytes) of gsEndDisplayList  Opcodes:	1	(4 bytes)
+Total Number (bytes) of gsFillRectangle   Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsLight           Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsRDPBlock        Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsLoadBlock       Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsLoadTLUT        Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsLoadTile        Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsMaterial        Opcodes:	1	(4 bytes)
+Total Number (bytes) of gsMatrix          Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsNTriangle       Opcodes:	137	(548 bytes)
+Total Number (bytes) of gsNoOp            Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsPopMatrix       Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsSRTMatrix       Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsSegment         Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsSetBlender      Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsSetPrimColor    Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsSetEnvColor     Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsSetFogColor     Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsSetFillColor    Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsSetBlendColor   Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsSetCombine      Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsSetCombineLERP  Opcodes:	1	(4 bytes)
+Total Number (bytes) of gsSetColorImage   Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsSetMaskImage    Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsSetTextureImage Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsSetOtherMode    Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsClearOtherMode  Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsSetRenderMode   Opcodes:	1	(4 bytes)
+Total Number (bytes) of gsSetScissor      Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsSetTile         Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsSetTileSize     Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsTexture         Opcodes:	1	(4 bytes)
+Total Number (bytes) of gsTriangleStrip   Opcodes:	0	(0 bytes)
+Total Number (bytes) of gsVertex          Opcodes:	960	(3840 bytes)
+Total Number (bytes) of gsViewport        Opcodes:	0	(0 bytes)

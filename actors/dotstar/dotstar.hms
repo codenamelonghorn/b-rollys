@@ -1,0 +1,16 @@
+
+extern Gfx  gfx_dotstar[];
+extern Gfx  gfx_shadestar[];
+
+extern GeoLayout RCP_HmsDotstar[] = { 
+
+	GEO_SHADOW(1, 155, 100),
+    	GEO_OPEN_NODE(),
+			GEO_DISPLAY_LIST(LAYER_ALPHA, gfx_dotstar),
+		GEO_CLOSE_NODE(),
+  	GEO_END(),
+
+};
+
+
+
