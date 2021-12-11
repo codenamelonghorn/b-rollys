@@ -1,7 +1,7 @@
 # b-rollys
 Leaked source code for "Project B-Roll"
 
-May not compile - this is caused by a badly setup repo.
+Big among us rolling down the hill
 
 ## Quick Start (for Ubuntu)
 
