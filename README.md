@@ -2,7 +2,7 @@
 Old leaked source code for "Project B-Roll". 
 Big among us rolling down the hill.
 
-Credits in
+credits in "copyright"
 
 
 ## Quick Start (for Ubuntu)
