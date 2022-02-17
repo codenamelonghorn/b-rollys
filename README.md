@@ -1,7 +1,11 @@
 # b-rollys
-Leaked source code for "Project B-Roll"
+Old leaked source code for "Project B-Roll". 
+Big among us rolling down the hill.
 
-Big among us rolling down the hill
+!!! I DON'T OWN THIS !!!
+!!! I DON'T OWN THIS !!!
+!!! I DON'T OWN THIS !!!
+
 
 ## Quick Start (for Ubuntu)
 
