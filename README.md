@@ -2,9 +2,7 @@
 Old leaked source code for "Project B-Roll". 
 Big among us rolling down the hill.
 
-!!! I DON'T OWN THIS !!!
-!!! I DON'T OWN THIS !!!
-!!! I DON'T OWN THIS !!!
+Credits in
 
 
 ## Quick Start (for Ubuntu)
