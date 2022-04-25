@@ -1,5 +1,6 @@
 # Big among us rolling down the hill
-Old leaked source code for "Project B-Roll". Credits in "copyright"
+Old leaked source code for "Project B-Roll". Do NOT file issues involving compiling. 
+Credits in "copyright"
 
 
 ## Quick Start (for Ubuntu)
