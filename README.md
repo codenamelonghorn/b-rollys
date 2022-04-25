@@ -1,8 +1,5 @@
-# b-rollys
-Old leaked source code for "Project B-Roll". 
-Big among us rolling down the hill.
-
-credits in "copyright"
+# Big among us rolling down the hill
+Old leaked source code for "Project B-Roll". Credits in "copyright"
 
 
 ## Quick Start (for Ubuntu)
